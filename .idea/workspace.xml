@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ff746c6-c083-41b1-ab3b-a25ac67e263e" name="Default Changelist" comment="">
+    <list default="true" id="9ff746c6-c083-41b1-ab3b-a25ac67e263e" name="Default Changelist" comment="项目初始化">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -11,6 +11,13 @@
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,22 +32,91 @@
     </option>
   </component>
   <component name="ProjectId" id="1dnagiFj9PjAwNUJ6BsLfJqivMR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/gmall-sms/src/main/resources" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea\ideaIU-2020.1\gmall-0722\gmall-sms\src\main\resources" />
+      <recent name="E:\idea\ideaIU-2020.1\gmall-0722\gmall-sms\src\main\java\com\atguigu\gmall\sms" />
+      <recent name="E:\idea\ideaIU-2020.1\gmall-0722\gmall-pms\src\main\resources" />
+      <recent name="E:\idea\ideaIU-2020.1\gmall-0722\gmall-pms\src\main\java\com\atguigu\gmall\pms" />
+      <recent name="E:\idea\ideaIU-2020.1\gmall-0722\gmall-pms\src\main\resources\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\idea\ideaIU-2020.1\gmall-0722\gmall-pms\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GmallSmsApplication">
     <configuration name="GmallAdminMainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="gmall-admin" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.GmallAdminMainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallOmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-oms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.oms.GmallOmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallPmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-pms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.pms.GmallPmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallSmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-sms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.sms.GmallSmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallUmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-ums" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.ums.GmallUmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallWmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-wms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atgugu.gmall.wms.GmallWmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RenrenApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-generator" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.RenrenApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -56,14 +132,59 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593063423309</updated>
-      <workItem from="1593063428010" duration="1213000" />
+      <workItem from="1593063428010" duration="5413000" />
+      <workItem from="1593071687595" duration="4732000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="项目初始化" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目初始化" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="685" y="0" key="CommitChangelistDialog2" timestamp="1593065077333">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="685" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1593065077333" />
+    <state x="618" y="190" key="FileChooserDialogImpl" timestamp="1593071693206">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="618" y="190" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593071693206" />
+    <state width="1014" height="147" key="GridCell.Tab.0.bottom" timestamp="1593089028853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1014" height="147" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593089028853" />
+    <state width="1014" height="147" key="GridCell.Tab.0.center" timestamp="1593089028852">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1014" height="147" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593089028852" />
+    <state width="1014" height="147" key="GridCell.Tab.0.left" timestamp="1593089028852">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1014" height="147" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593089028852" />
+    <state width="1014" height="147" key="GridCell.Tab.0.right" timestamp="1593089028853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1014" height="147" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593089028853" />
+    <state width="1014" height="147" key="GridCell.Tab.1.bottom" timestamp="1593089028853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1014" height="147" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593089028853" />
+    <state width="1014" height="147" key="GridCell.Tab.1.center" timestamp="1593089028853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1014" height="147" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593089028853" />
+    <state width="1014" height="147" key="GridCell.Tab.1.left" timestamp="1593089028853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1014" height="147" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593089028853" />
+    <state width="1014" height="147" key="GridCell.Tab.1.right" timestamp="1593089028853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1014" height="147" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593089028853" />
     <state x="988" y="117" key="RollbackChangesDialog" timestamp="1593064766450">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -72,5 +193,17 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="224" y="98" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593063556253" />
+    <state x="569" y="270" key="Vcs.Push.Dialog.v2" timestamp="1593065186138">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="569" y="270" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1593065186138" />
+    <state x="1006" y="278" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593086565703">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1006" y="278" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1593086565703" />
+    <state x="356" y="58" width="1180" height="678" key="new project wizard" timestamp="1593068445385">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="356" y="58" width="1180" height="678" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1593068445385" />
   </component>
 </project>
